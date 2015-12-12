@@ -39,4 +39,4 @@ git push origin master
 ## Day 3
 * 오늘은 JavaScript 함수를 복습했다.
 * 콜백함수를 실습했다.
-* 'git'의 간단한 명령어에 대해서 학습했다. 
+* git의 간단한 명령어에 대해서 학습했다. 
